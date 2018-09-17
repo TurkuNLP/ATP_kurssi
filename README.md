@@ -20,3 +20,20 @@
 * Pipes
 * Commands: `>`, `|`
 * materials: [Unix_2.ipynb](Unix_2.ipynb)
+
+### 4. lecture
+* Counting word frequency lists
+* Selecting random lines from a file
+* Compressing text
+* Commands: sort, uniq, tr, gzip, shuf
+* materials: [Unix_3.ipynb](Unix_3.ipynb)
+
+### 5. lecture
+* Search with regular expressions
+* Commands: egrep
+* materials: [Unix_4.ipynb](Unix_4.ipynb)
+
+### 6. lecture
+* Search and replace
+* Commands: perl -pe
+* materials: [Unix_5.ipynb](Unix_5.ipynb)
