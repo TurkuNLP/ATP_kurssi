@@ -35,5 +35,5 @@
 
 ### 6. lecture
 * Search and replace
-* Commands: perl -pe
+* Commands: perl -pe 's/old/new/g'
 * materials: [Unix_5.ipynb](Unix_5.ipynb)
