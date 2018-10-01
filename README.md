@@ -1,5 +1,14 @@
 # KKLT0030 Automaattinen tekstiprosessointi
 
+### 2018 Exams
+1. ja 2. tenttikerta järjestetään viimeisellä opetusviikolla (vk 43) normaalien luentojen aikana.
+
+**1. tentti** maanantaina 22.10. klo 10-12 A252
+
+**2. tentti** torstaina 25.10. klo 12-14 A252
+
+**3. tentti** ilmoitetaan myöhemmin, jos sinulla on tarve 3. tenttikerralle (et pääse 1. tai 2. tenttiin tai haluat tulla uusimaan tentin), ota yhteyttä jmnybl@utu.fi
+
 ### 1. lecture
 * General course information
 * ssh / connecting to a server
@@ -37,3 +46,10 @@
 * Search and replace
 * Commands: perl -pe 's/old/new/g'
 * materials: [Unix_5.ipynb](Unix_5.ipynb)
+
+### 7. lecture
+* Recap
+
+### 8. lecture
+* Bash scripts
+* materials: [Unix_6.ipynb](Unix_5.ipynb)
