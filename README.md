@@ -7,7 +7,7 @@
 
 **2. tentti** torstaina 25.10. klo 12-14 A252
 
-**3. tentti** ilmoitetaan myöhemmin, jos sinulla on tarve 3. tenttikerralle (et pääse 1. ja 2. tenttiin tai haluat tulla uusimaan tentin), ota yhteyttä jmnybl@utu.fi
+**3. tentti** ilmoitetaan myöhemmin, jos sinulla on tarve 3. tenttikerralle (et pääse 1. ja 2. tenttiin tai haluat tulla uusimaan tentin), ota yhteyttä jmnybl@utu.fi ennen kurssin päättymistä tai heti 1. ja 2. tenttikertojen tulosten tultua
 
 ### 1. lecture
 * General course information
