@@ -52,4 +52,8 @@
 
 ### 8. lecture
 * Bash scripts
-* materials: [Unix_6.ipynb](Unix_5.ipynb)
+* materials: [Unix_6.ipynb](Unix_6.ipynb)
+
+### 9. lecture
+* Syntax
+* materials: [Unix_7.ipynb](Unix_7.ipynb)
