@@ -1,11 +1,11 @@
 # KKLT0030 Automaattinen tekstiprosessointi
 
 ### 2018 Exams
-1. ja 2. tenttikerta järjestetään viimeisellä opetusviikolla (vk 43) normaalien luentojen aikana.
+1. ja 2. tenttikerta järjestetään viimeisellä opetusviikolla (vk 43) normaalien luentojen aikana. Huom! Aloitetaan tentit heti tasalta, eli mannantaina tasan klo 10.00 ja torstaina tasan kello 12.00.
 
-**1. tentti** maanantaina 22.10. klo 10-12 A252
+**1. tentti** maanantaina 22.10. klo 10.00-12.00 A252
 
-**2. tentti** torstaina 25.10. klo 12-14 A252
+**2. tentti** torstaina 25.10. klo 12.00-14.00 A252
 
 **3. tentti** ilmoitetaan myöhemmin, jos sinulla on tarve 3. tenttikerralle (et pääse 1. ja 2. tenttiin tai haluat tulla uusimaan tentin), ota yhteyttä jmnybl@utu.fi ennen kurssin päättymistä tai heti 1. ja 2. tenttikertojen tulosten tultua
 
@@ -55,5 +55,10 @@
 * materials: [Unix_6.ipynb](Unix_6.ipynb)
 
 ### 9. lecture
-* Syntax
+* Processing syntax analyzed files on command line (conllu)
+* Commands: `cut`
 * materials: [Unix_7.ipynb](Unix_7.ipynb)
+
+### 10. lecture
+* Scripts for processing syntax analyzed files
+* materials: [Unix_8.ipynb](Unix_8.ipynb)
