@@ -62,3 +62,7 @@
 ### 10. lecture
 * Scripts for processing syntax analyzed files
 * materials: [Unix_8.ipynb](Unix_8.ipynb)
+
+### Extras:
+* If `tr '[:upper:]' '[:lower:]'` does not properly convert unicode character (e.g. ä and ö), try replacing it with `awk '{print toupper($0)}'`
+* materials: [Unix_8.ipynb](Unix_8.ipynb)
