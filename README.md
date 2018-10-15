@@ -52,6 +52,8 @@
 
 ### 8. lecture
 * Bash scripts
+* File permissions
+* Commands: `chmod u+x script.sh`
 * materials: [Unix_6.ipynb](Unix_6.ipynb)
 
 ### 9. lecture
@@ -62,6 +64,14 @@
 ### 10. lecture
 * Scripts for processing syntax analyzed files
 * materials: [Unix_8.ipynb](Unix_8.ipynb)
+
+### 11. and 12. lecture
+* For-loops
+* Recap
+* materials: [Unix_9.ipynb](Unix_9.ipynb)
+
+### 13. and 14. lecture
+* EXAMS!
 
 ### Extras:
 * If `tr '[:upper:]' '[:lower:]'` does not properly convert unicode character (e.g. ä and ö), try replacing it with `awk '{print tolower($0)}'`
