@@ -66,7 +66,10 @@
 * materials: [Unix_8.ipynb](Unix_8.ipynb)
 
 ### 11. and 12. lecture
-* For-loops
+* Bash for loops
+* For loop over all .txt files in a directory: `for x in directory/*.txt ; do echo $x ; done`
+* For loop over numeric range: `for x in {1..10} ; do echo $x ; done`
+* For loop over list of strings: `for x in en fi sv ; do echo $x ; done` or `languages="en fi sv" ; for x in $languages ; do echo $x ; done`
 * Recap
 * materials: [Unix_9.ipynb](Unix_9.ipynb)
 
@@ -74,4 +77,6 @@
 * EXAMS!
 
 ### Extras:
+* Access server from Ubuntu/Mac machines: `ssh -X username@servername` 
 * If `tr '[:upper:]' '[:lower:]'` does not properly convert unicode character (e.g. ä and ö), try replacing it with `awk '{print tolower($0)}'`
+
