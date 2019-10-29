@@ -1,7 +1,6 @@
 # KKLT0030 Automaattinen tekstiprosessointi
 
 ### 2019 Exams
-1. ja 2. tenttikerta järjestetään viimeisellä opetusviikolla (vk 43) normaalien luentojen aikana. Huom! Aloitetaan tentit heti tasalta, eli maanantaina tasan klo 10.00 ja torstaina tasan kello 12.00.
 
 **1. tentti** torstaina 12.12, luentoaikana
 
