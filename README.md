@@ -15,6 +15,10 @@
 * Commands: ls, cd, echo, cat, less, different text editors
 * materials: [Unix_1.ipynb](Unix_1.ipynb)
 
+### 2. lecture
+* Searching and counting: egrep, wc, tail, head
+* Pipes and flags (vivut)
+* materials: Unix_2.ipynb
 
 ### Extras:
 * If Github does not show you the ipynb notebooks, you can display them at https://nbviewer.jupyter.org/
