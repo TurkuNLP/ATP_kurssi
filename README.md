@@ -18,6 +18,7 @@
 ### 2. lecture
 * Searching and counting: egrep, wc, tail, head
 * Pipes and flags (vivut)
+* Directing output to a file with > and >>
 * materials: Unix_2.ipynb
 
 ### Extras:
