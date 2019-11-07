@@ -21,6 +21,11 @@
 * Directing output to a file with > and >>
 * materials: Unix_2.ipynb
 
+### 3. lecture
+* More on searching and counting
+* Frequency lists with sort and uniq
+* materials: Unix_2.ipynb, Unix_3.ipynb
+
 ### Extras:
 * If Github does not show you the ipynb notebooks, you can display them at https://nbviewer.jupyter.org/
 * Access server from Ubuntu/Mac machines: `ssh -X username@servername` 
