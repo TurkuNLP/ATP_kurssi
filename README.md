@@ -26,6 +26,11 @@
 * Frequency lists with sort and uniq
 * materials: Unix_2.ipynb, Unix_3.ipynb
 
+### 4. lecture
+* More on frequency lists with sort and uniq
+* tr, shuf and gzip
+* materials: Unix_3.ipynb, beginning of Unix_4.ipy
+
 ### Extras:
 * If Github does not show you the ipynb notebooks, you can display them at https://nbviewer.jupyter.org/
 * Access server from Ubuntu/Mac machines: `ssh -X username@servername` 
