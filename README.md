@@ -29,7 +29,14 @@
 ### 4. lecture
 * More on frequency lists with sort and uniq
 * tr, shuf and gzip
-* materials: Unix_3.ipynb, beginning of Unix_4.ipy
+* materials: Unix_3.ipynb, beginning of Unix_4.ipynb
+
+### 5. lecture
+* Recap on frequency lists and tr
+* Regular expressions
+* materials: Unix_4.ipynb
+
+### TORSTAI 14.11 LUENTO AGORAN SALISSA K126C!! (KS. PEPPI)
 
 ### Extras:
 * If Github does not show you the ipynb notebooks, you can display them at https://nbviewer.jupyter.org/
