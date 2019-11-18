@@ -36,6 +36,10 @@
 * Regular expressions
 * materials: Unix_4.ipynb
 
+### 6. lecture
+* More on regular expressions
+* materials: Unix_4.ipynb
+
 ### TORSTAI 14.11 LUENTO AGORAN SALISSA K126C!! (KS. PEPPI)
 
 ### Extras:
