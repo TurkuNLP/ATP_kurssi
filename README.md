@@ -40,7 +40,17 @@
 * More on regular expressions
 * materials: Unix_4.ipynb
 
-### TORSTAI 14.11 LUENTO AGORAN SALISSA K126C!! (KS. PEPPI)
+### 7. lecture
+* Recap on regex
+* perl -pe 's///g' -komento
+* skriptit
+* materials: Unix_4.ipynb, Unix_5.ipynb, Unix_6.ipynb
+
+### HUOM! TORSTAI 21.11 LUENTO ON PERUTTU! 
+### Korvaavina tehtävinä seuraavat:
+* Unix_6.ipynb tehtävät 10 ja 11
+* Unix_5.ipynb tehtävä 9
+
 
 ### Extras:
 * If Github does not show you the ipynb notebooks, you can display them at https://nbviewer.jupyter.org/
