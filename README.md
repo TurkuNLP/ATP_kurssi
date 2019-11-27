@@ -51,6 +51,12 @@
 * Unix_6.ipynb tehtävät 10 ja 11
 * Unix_5.ipynb tehtävä 9
 
+### 7. lecture
+* Recap on scripts and perl -pe 's///g'
+* Materials Unix_5.ipynb, Unix_6.ipynb  
+
+### HUOM! 3.12 ja 5.12 ei ole ohjattuja luentoja, vaan ne korvataan tehtävillä. Tehtävien tekeminen yhdessä on kuitenkin kannattavaa!
+
 
 ### Extras:
 * If Github does not show you the ipynb notebooks, you can display them at https://nbviewer.jupyter.org/
