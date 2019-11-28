@@ -55,7 +55,16 @@
 * Recap on scripts and perl -pe 's///g'
 * Materials Unix_5.ipynb, Unix_6.ipynb  
 
-### HUOM! 3.12 ja 5.12 ei ole ohjattuja luentoja, vaan ne korvataan tehtävillä. Tehtävien tekeminen yhdessä on kuitenkin kannattavaa!
+### 8. lecture
+* The command cut
+* Syntax analyzed files, the conll format
+* Analyzing and grepping conllu files
+* Materials Unix_7.ipynb
+
+### HUOM! 3.12 ja 5.12 ei ole ohjattuja luentoja, vaan ne korvataan tehtävillä. Tehtävien tekeminen yhdessä on kuitenkin kannattavaa! Suosittelen luentoaikana Sammioon menemistä, yhdessä mahdolliset ongelmat saa helpommin ratkottua!
+### TEHTÄVÄT: 
+* Unix_7.ipynb: Tehtävät 13,14
+* Unix_8.ipynb: Tehtävät 15,16,17,18
 
 
 ### Extras:
