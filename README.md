@@ -1,4 +1,4 @@
-Course Moodle page (in case we need it): https://moodle.utu.fi/course/view.php?id=23080#section-1 
+Course Moodle page (lecture recordings will be there): https://moodle.utu.fi/course/view.php?id=23080#section-1 
 
 Course server vm0964.kaj.pouta.csc.fi
 
