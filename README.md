@@ -12,9 +12,11 @@ Course server vm0964.kaj.pouta.csc.fi
 - Wget, ls, head, tail, cat
 - cp, rm, mv
 - wc -w, >, >>
+- Notebook 1
 
 ## Wednesday Oct. 27
 - Recap on previous
 - egrep
 - options (flags)
 - pipes
+- Notebook 2
