@@ -20,3 +20,8 @@ Course server vm0964.kaj.pouta.csc.fi
 - options (flags)
 - pipes
 - Notebook 2
+
+## Monday Nov. 1
+- using git clone to get data from Github
+- sort, uniq to do frequency lists
+- sort | uniq -c | sort -n pipe to do frequency list
