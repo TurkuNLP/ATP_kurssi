@@ -26,3 +26,6 @@ Course server vm0964.kaj.pouta.csc.fi
 - sort, uniq
 - sort | uniq -c | sort -n pipe to do frequency list
 - Notebook 3
+
+## Wed Nov. 3
+- tr for normalizing and cleaning data
