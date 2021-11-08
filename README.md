@@ -29,3 +29,9 @@ Course server vm0964.kaj.pouta.csc.fi
 
 ## Wed Nov. 3
 - tr for normalizing and cleaning data
+- Notebook 4
+
+## Mon Nov 8
+- regular expressions
+- cut -f command
+- Notebook 5
