@@ -35,3 +35,9 @@ Course server vm0964.kaj.pouta.csc.fi
 - regular expressions
 - cut -f command
 - Notebook 5
+
+## Wed Nov 11
+- working on a server
+- passwd for changing a password
+- text editors emacs and nano
+- Notebook 6 (beginning)
