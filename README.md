@@ -41,3 +41,8 @@ Course server vm0964.kaj.pouta.csc.fi
 - passwd for changing a password
 - text editors emacs and nano
 - Notebook 6 (beginning)
+
+## Mon Nov 15
+- working on a server (cont.)
+- perl -pe 's/ORIGINAL/REPLACED/g'
+- Notebook 6 (the whole thing)
