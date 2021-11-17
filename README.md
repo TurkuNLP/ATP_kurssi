@@ -50,4 +50,4 @@ Course server vm0964.kaj.pouta.csc.fi
 ## Wed Nov 17
 - regular expressions in practice with the Brown corpus
 - conllu data
-- Notebook 7
+- Notebook 7 (except for the running python thing at the very end)
