@@ -46,3 +46,8 @@ Course server vm0964.kaj.pouta.csc.fi
 - working on a server (cont.)
 - perl -pe 's/ORIGINAL/REPLACED/g'
 - Notebook 6 (the whole thing)
+
+## Wed Nov 17
+- regular expressions in practice with the Brown corpus
+- conllu data
+- Notebook 7
