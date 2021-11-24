@@ -55,3 +55,7 @@ Course server vm0964.kaj.pouta.csc.fi
 ## Mon Nov 22
 - more conllu data
 - Notebook 8
+
+## Wed Nov 24
+- scripts
+- Notebook 9
