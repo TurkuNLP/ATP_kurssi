@@ -59,3 +59,8 @@ Course server vm0964.kaj.pouta.csc.fi
 ## Wed Nov 24
 - scripts
 - Notebook 9
+
+## Mon Nov 30
+- for loops
+- more on scripts
+- Notebook 10
