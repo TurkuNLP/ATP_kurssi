@@ -3,8 +3,8 @@ Course Moodle page (lecture recordings will be there): https://moodle.utu.fi/cou
 Course server vm0964.kaj.pouta.csc.fi
 
 ## Exams
-1. Exam is December 8 (lecture time)
-2. Exam is December 13 (lecture time)
+1. Exam is December 8 (lecture time and place in Agora)
+2. Exam is December 13 (lecture time and place in Agora)
 3. Exam in January
 
 ## Monday Oct. 25
