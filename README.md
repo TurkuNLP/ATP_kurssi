@@ -8,7 +8,7 @@ The course Moodle page has private materials, such as possible recordings and an
 * Getting started
 * Notebook 1
 * Commands
-** Getting data and printing stuff: wget, echo
-** Printing files: cat, head, tail
-** Copying, renaming, removing: cp, rm, mv
-** Others: wc -w, ls
+  * Getting data and printing stuff: wget, echo
+  * Printing files: cat, head, tail
+  * Copying, renaming, removing: cp, rm, mv
+  * Others: wc -w, ls
