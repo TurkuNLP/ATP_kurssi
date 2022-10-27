@@ -17,9 +17,9 @@ The course Moodle page has private materials, such as possible recordings and an
 * Notebook2
 * Commands: egrep, sort, uniq
 * Options
- * egrep -v, -i, -w, -c, -B, -A
- * head -n, tail -n
- * wc -l, -w
- * uniq -c, sort -r, -n
+  * egrep -v, -i, -w, -c, -B, -A
+  * head -n, tail -n
+  * wc -l, -w
+  * uniq -c, sort -r, -n
 * Pipes, especially frequency counts
- * sort | uniq -c | sort -rn
+  * sort | uniq -c | sort -rn
