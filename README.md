@@ -23,3 +23,15 @@ The course Moodle page has private materials, such as possible recordings and an
   * uniq -c, sort -r, -n
 * Pipes, especially frequency counts
   * sort | uniq -c | sort -rn
+
+## Tue Nov 1
+* Notebook3 exercises
+
+## Wed Nov 2
+* Notebook4
+* Git clone for cloning Github reports
+* Gzipped files using gzip and zcat
+* Changing characters using tr
+   * Combining tr to a frequency list pipeline
+   * Using tr to normalize
+* Regular expressions
