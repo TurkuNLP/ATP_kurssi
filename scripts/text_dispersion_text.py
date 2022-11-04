@@ -34,8 +34,8 @@ for file in sys.argv[1:]: # read all files from path -> run from corpus director
     print("Reading a file named", file, flush=True)
     f = print_text_text(file)
     f=f.split("\n")
-    print("LEN", len(f))
-    print("f0", f[0])
+#    print("LEN", len(f))
+ #   print("f0", f[0])
 
 
 #Count the texts in the target and reference corpora
