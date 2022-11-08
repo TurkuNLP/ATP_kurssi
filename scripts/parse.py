@@ -7,6 +7,8 @@ p = Pipeline('english')
 #doc_text = '''Hello! This is Trankit.'''
 
 # perform all tasks on the input
-all = p(sys.stdin())
-all_conllu = trankit2conllu(all)
-print(all_conllu)
+for line in sys.stdin:
+    line=line.strip()
+    all = p(line)
+    all_conllu = trankit2conllu(all)
+    print(all_conllu)
