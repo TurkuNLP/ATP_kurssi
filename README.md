@@ -35,3 +35,15 @@ The course Moodle page has private materials, such as possible recordings and an
    * Combining tr to a frequency list pipeline
    * Using tr to normalize
 * Regular expressions
+
+## Tue Nov 8
+* Notebook 5 exercies
+
+## Wed Nov 9
+* Notebook 6
+* Dependency syntax analysis pipeline
+ * Sentence + token segmentation, lemmatisation, POS, dependencies
+ * conllu format
+* Universal dependencies treebanks
+* Trankit parser
+*
