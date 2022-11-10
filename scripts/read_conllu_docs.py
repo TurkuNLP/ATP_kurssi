@@ -50,6 +50,7 @@ def read_text(inp):
 
     
 def print_all(time,text,feats):
+    print("###C: NEWDOC")
     print(time)
     print(text)
     for f in feats:
@@ -61,6 +62,7 @@ options = argparser().parse_args(sys.argv[1:])
 
 
 for id, time,text, feats in read_text(sys.stdin):
+#    print("###C: NEWDOC")
     if options.text is not None:
         if options.text.lower() in text.lower():
             if options.time is not None:
