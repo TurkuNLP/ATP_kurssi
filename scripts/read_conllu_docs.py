@@ -62,7 +62,7 @@ options = argparser().parse_args(sys.argv[1:])
 
 for id, time,text, feats in read_text(sys.stdin):
     if options.text is not None:
-        if options.text in text:
+        if options.text.lower() in text.lower():
             if options.time is not None:
                 if options.time in time:
                     print_all(time,text,feats)
