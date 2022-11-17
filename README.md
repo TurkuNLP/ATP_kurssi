@@ -46,4 +46,12 @@ The course Moodle page has private materials, such as possible recordings and an
  * conllu format
 * Universal dependencies treebanks
 * Trankit parser
-*
+
+## Tue Nov 15
+* Notebook 7
+* Running python scripts
+
+## Wed Nov 16
+* Notebook 8
+* Working on the server (Note that the exam will be on server!)
+* Scripts
