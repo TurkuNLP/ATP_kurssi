@@ -55,3 +55,23 @@ The course Moodle page has private materials, such as possible recordings and an
 * Notebook 8
 * Working on the server (Note that the exam will be on server!)
 * Scripts
+
+## Tue Nov 19
+* Notebook 9
+
+## Wed Nov 20
+* Course cancelled (announced both in a Moodle message and at class, I hope no one showed up)
+
+## Tue Nov 29
+* Notebook 10
+* More exercises on working on the server, regular expressions, handling data
+
+## Wed Nov 30
+* Notebook 11
+* Recap
+
+## Wed Dec 7
+* Exam, option 1
+
+## Tue Dec 13
+* Exam, option 2
