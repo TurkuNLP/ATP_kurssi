@@ -68,6 +68,7 @@ The course Moodle page has private materials, such as possible recordings and an
 
 ## Wed Nov 30
 * Notebook 11
+* In case the Notebook 11 is not accessible as from the Github repo, you can use this version: https://colab.research.google.com/drive/16EFdusy496svEkMSxTvP0pHtzTZikHer?usp=sharing
 * Recap
 
 ## Wed Dec 7
