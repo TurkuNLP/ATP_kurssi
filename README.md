@@ -72,6 +72,8 @@ The course Moodle page has private materials, such as possible recordings and an
 
 ## Wed Dec 7
 * Exam, option 1
+* 12.15-13.45 in 420.1 (same as lectures)
 
 ## Tue Dec 13
 * Exam, option 2
+* 8.30-10.00 in Agora IT-luokka K126A (same as lectures)
