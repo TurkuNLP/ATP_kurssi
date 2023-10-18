@@ -2,7 +2,7 @@
 
 This page includes all the materials for the course KKLT0030 Automatic text processing 5 credits. 
 
-The course Moodle page has private materials, such as possible recordings and announcements: https://moodle.utu.fi/course/view.php?id=26139
+The course Moodle page has private materials, such as possible recordings and announcements: https://moodle.utu.fi/course/view.php?id=29596
 
 ## Mon Oct 23
 * Getting started
