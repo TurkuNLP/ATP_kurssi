@@ -60,7 +60,7 @@ The course Moodle page has private materials, such as possible recordings and an
 * Notebook 9
 
 ## Thur Nov 23
-* 
+* Notebook 9 - cont'
 
 ## Mon Nov 27
 * Notebook 10
