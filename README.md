@@ -4,7 +4,7 @@ This page includes all the materials for the course KKLT0030 Automatic text proc
 
 The course Moodle page has private materials, such as possible recordings and announcements: https://moodle.utu.fi/course/view.php?id=26139
 
-## Tue Oct 25
+## Mon Oct 23
 * Getting started
 * Notebook 1
 * Commands
@@ -13,7 +13,7 @@ The course Moodle page has private materials, such as possible recordings and an
   * Copying, renaming, removing: cp, rm, mv
   * Others: wc -w, ls
 
-## Wed Oct 26
+## Thur Oct 26
 * Notebook2
 * Commands: egrep, sort, uniq
 * Options
@@ -24,10 +24,10 @@ The course Moodle page has private materials, such as possible recordings and an
 * Pipes, especially frequency counts
   * sort | uniq -c | sort -rn
 
-## Tue Nov 1
+## Mon Oct 30
 * Notebook3 exercises
 
-## Wed Nov 2
+## Thur Nov 2
 * Notebook4
 * Git clone for cloning Github reports
 * Gzipped files using gzip and zcat
@@ -36,10 +36,10 @@ The course Moodle page has private materials, such as possible recordings and an
    * Using tr to normalize
 * Regular expressions
 
-## Tue Nov 8
+## Mon Nov 6
 * Notebook 5 exercies
 
-## Wed Nov 9
+## Thur Nov 9
 * Notebook 6
 * Dependency syntax analysis pipeline
  * Sentence + token segmentation, lemmatisation, POS, dependencies
@@ -47,34 +47,37 @@ The course Moodle page has private materials, such as possible recordings and an
 * Universal dependencies treebanks
 * Trankit parser
 
-## Tue Nov 15
+## Mon Nov 13
 * Notebook 7
 * Running python scripts
 
-## Wed Nov 16
+## Thur Nov 16
 * Notebook 8
 * Working on the server (Note that the exam will be on server!)
 * Scripts
 
-## Tue Nov 19
+## Mon Nov 20
 * Notebook 9
 
-## Wed Nov 20
-* Course cancelled (announced both in a Moodle message and at class, I hope no one showed up)
+## Thur Nov 23
+* 
 
-## Tue Nov 29
+## Mon Nov 27
 * Notebook 10
 * More exercises on working on the server, regular expressions, handling data
 
-## Wed Nov 30
+## Thur Nov 30
 * Notebook 11
 * In case the Notebook 11 is not accessible as from the Github repo, you can use this version: https://colab.research.google.com/drive/16EFdusy496svEkMSxTvP0pHtzTZikHer?usp=sharing
 * Recap
 
-## Wed Dec 7
-* Exam, option 1
-* 12.15-13.45 in 420.1 (same as lectures)
+## Mon Dec 4
+* Recap
 
-## Tue Dec 13
+## Thur Dec 7
+* Exam, option 1
+* 14.15-15.45 (TBA)
+
+## Thur Dec 14
 * Exam, option 2
-* 8.30-10.00 in Agora IT-luokka K126A (same as lectures)
+* 14.15-15.45 (TBA)
