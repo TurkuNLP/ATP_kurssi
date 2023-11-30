@@ -54,29 +54,30 @@ The course Moodle page has private materials, such as possible recordings and an
 ## Thur Nov 16
 * Notebook 8
 * Working on the server (Note that the exam will be on server!)
-* Scripts
 
 ## Mon Nov 20
-* Notebook 9
+* Notebook 8 cont'd
+* Scripts
 
 ## Thur Nov 23
-* Notebook 9 - cont'
+* Notebook 9
 
 ## Mon Nov 27
-* Notebook 10
-* More exercises on working on the server, regular expressions, handling data
+* Notebook 9
 
 ## Thur Nov 30
-* Notebook 11
-* In case the Notebook 11 is not accessible as from the Github repo, you can use this version: https://colab.research.google.com/drive/16EFdusy496svEkMSxTvP0pHtzTZikHer?usp=sharing
+* Notebook 10
+* For loops
 
 ## Mon Dec 4
 * Recap
+* Notebook 11
+* In case the Notebook 11 is not accessible as from the Github repo, you can use this version: https://colab.research.google.com/drive/16EFdusy496svEkMSxTvP0pHtzTZikHer?usp=sharing
 
 ## Thur Dec 7
 * Exam, option 1
-* 14.15-15.45 (TBA)
+* 14.00-16.00 (TBA)
 
 ## Thur Dec 14
 * Exam, option 2
-* 14.15-15.45 (TBA)
+* 14.00-16.00 (TBA)
