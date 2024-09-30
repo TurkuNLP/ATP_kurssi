@@ -2,9 +2,9 @@
 
 This page includes all the materials for the course KKLT0030 Automatic text processing 5 credits. 
 
-The course Moodle page has private materials, such as possible recordings and announcements: https://moodle.utu.fi/course/view.php?id=29596
+The course Moodle page has private materials, such as possible recordings and announcements.
 
-## Mon Oct 23
+## Mon Oct 28
 * Getting started
 * Notebook 1
 * Commands
@@ -13,7 +13,7 @@ The course Moodle page has private materials, such as possible recordings and an
   * Copying, renaming, removing: cp, rm, mv
   * Others: wc -w, ls
 
-## Thur Oct 26
+## Thur Oct 31
 * Notebook2
 * Commands: egrep, sort, uniq
 * Options
@@ -24,10 +24,10 @@ The course Moodle page has private materials, such as possible recordings and an
 * Pipes, especially frequency counts
   * sort | uniq -c | sort -rn
 
-## Mon Oct 30
+## Mon Nov 4
 * Notebook3 exercises
 
-## Thur Nov 2
+## Thur Nov 7
 * Notebook4
 * Git clone for cloning Github reports
 * Gzipped files using gzip and zcat
@@ -36,10 +36,10 @@ The course Moodle page has private materials, such as possible recordings and an
    * Using tr to normalize
 * Regular expressions
 
-## Mon Nov 6
+## Mon Nov 11
 * Notebook 5 exercies
 
-## Thur Nov 9
+## Thur Nov 14
 * Notebook 6
 * Dependency syntax analysis pipeline
  * Sentence + token segmentation, lemmatisation, POS, dependencies
@@ -47,37 +47,37 @@ The course Moodle page has private materials, such as possible recordings and an
 * Universal dependencies treebanks
 * Trankit parser
 
-## Mon Nov 13
+## Mon Nov 18
 * Notebook 7
 * Running python scripts
 
-## Thur Nov 16
+## Thur Nov 21
 * Notebook 8
 * Working on the server (Note that the exam will be on server!)
 
-## Mon Nov 20
+## Mon Nov 25
 * Notebook 8 cont'd
 * Scripts
 
-## Thur Nov 23
+## Thur Nov 28
 * Notebook 9
 
-## Mon Nov 27
+## Mon Dec 2
 * Notebook 9
 
-## Thur Nov 30
+## Thur Dec 5
 * Notebook 10
 * For loops
 
-## Mon Dec 4
+## Mon Dec 9
 * Recap
 * Notebook 11
 * In case the Notebook 11 is not accessible as from the Github repo, you can use this version: https://colab.research.google.com/drive/16EFdusy496svEkMSxTvP0pHtzTZikHer?usp=sharing
 
-## Thur Dec 7
+## Thur Dec 12
 * Exam, option 1
-* 14.00-16.00 (TBA)
+* (TBA)
 
-## Thur Dec 14
+## Thur Dec 19
 * Exam, option 2
-* 14.00-16.00 (TBA)
+* (TBA)
