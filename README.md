@@ -10,7 +10,7 @@ The course Moodle page has private materials, such as possible recordings and an
 * Commands
   * Getting data and printing stuff: wget, echo
   * Printing files: cat, head, tail
-  * Copying, renaming, removing: cp, rm, mv
+  * Copying, renaming, removing: cp, mv, rm
   * Others: wc -w, ls
 
 ## Thur Oct 31
