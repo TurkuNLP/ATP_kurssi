@@ -27,7 +27,7 @@ The course Moodle page has private materials, such as possible recordings and an
 ## Mon Nov 3
 * Notebook3 exercises
 
-## Thur Nov 8
+## Thur Nov 6
 * Notebook4
 * Git clone for cloning Github reports
 * Gzipped files using gzip and zcat
