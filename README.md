@@ -4,7 +4,7 @@ This page includes all the materials for the course KKLT0030 Automatic text proc
 
 The course Moodle page has private materials, such as possible recordings and announcements.
 
-## Mon Oct 28
+## Mon Oct 27
 * Getting started
 * Notebook 1
 * Commands
@@ -13,7 +13,7 @@ The course Moodle page has private materials, such as possible recordings and an
   * Copying, renaming, removing: cp, mv, rm
   * Others: wc -w, ls
 
-## Thur Oct 31
+## Thur Oct 30
 * Notebook2
 * Commands: egrep, sort, uniq
 * Options
@@ -24,10 +24,10 @@ The course Moodle page has private materials, such as possible recordings and an
 * Pipes, especially frequency counts
   * sort | uniq -c | sort -rn
 
-## Mon Nov 4
+## Mon Nov 3
 * Notebook3 exercises
 
-## Thur Nov 7
+## Thur Nov 8
 * Notebook4
 * Git clone for cloning Github reports
 * Gzipped files using gzip and zcat
@@ -36,10 +36,10 @@ The course Moodle page has private materials, such as possible recordings and an
    * Using tr to normalize
 * Regular expressions
 
-## Mon Nov 11
+## Mon Nov 10
 * Notebook 5 exercies
 
-## Thur Nov 14
+## Thur Nov 13
 * Notebook 6
 * Dependency syntax analysis pipeline
  * Sentence + token segmentation, lemmatisation, POS, dependencies
@@ -47,37 +47,42 @@ The course Moodle page has private materials, such as possible recordings and an
 * Universal dependencies treebanks
 * Trankit parser
 
-## Mon Nov 18
+## Mon Nov 17
 * Notebook 7
-* Running python scripts
+* recap
 
-## Thur Nov 21
+## Thur Nov 20
 * Notebook 8
-* Working on the server (Note that the exam will be on server!)
+* Working on the server
+* Directory structure, files and folders
 
-## Mon Nov 25
+## Mon Nov 24
 * Notebook 8 cont'd
 * Scripts
+* Stdin/stdout, arguments
 
-## Thur Nov 28
+## Thur Nov 27
 * Notebook 9
+* Recap of Notebook 8 subjects
 
-## Mon Dec 2
+## Mon Dec 1
 * Notebook 9
+* Perl substitution
 
-## Thur Dec 5
+## Thur Dec 4
 * Notebook 10
 * For loops
 
-## Mon Dec 9
+## Mon Dec 8
+* More for loops
 * Recap
-* Notebook 11
-* In case the Notebook 11 is not accessible as from the Github repo, you can use this version: https://colab.research.google.com/drive/16EFdusy496svEkMSxTvP0pHtzTZikHer?usp=sharing
 
-## Thur Dec 12
-* Exam, option 1
-* (TBA)
+## Thur Dec 11
+* FULL RECAP
+* Q&A
 
-## Thur Dec 19
-* Exam, option 2
-* (TBA)
+## Mon Dec 15
+* EXTRA: Python with Bash
+
+## Thur Dec 18
+* EXTRA: Python with Bash
